@@ -8,8 +8,7 @@
 
 
 ## Project Presentation Video
-Live recording --> All members
-
+- Video link: 
 
 
 ## Topic Summary
@@ -19,6 +18,9 @@ This topic is about Open AI and the coding assistants run by AI, like GitHub Cop
 
 
 ## Contribution Breakdown
+- Live recording --> All members
+
+Research:
 - Brief overview --> Samad Adelakun
 - Current state of OpenAI and AI coding assistants --> Isaiah Jade-Watson
 - Impact of OpenAI and AI coding assistants --> Kawren Sadr-Baygi
